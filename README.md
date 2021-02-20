@@ -1,6 +1,6 @@
 # SureStartVAIL
 ### Feburary 8th
-- I am looking foward to learn how to impelment my creativity to machine learning and AI. I am also excited to work on the makeathon project with my team members and grow as a traniee in this field throught our curiculaum and networking events. 
+- I am looking foward to learn how to impelment my creativity to machine learning and AI. I am also excited to work on the makeathon project with my team members and grow as a traniee in this field through our curiculaum and networking events. I want to use the knowlege of AI and ML I would gain in this cohort to contribute to bettering the enviornment & planet and hopefully be a mentor to future generations
 ### Feburary 9th
 1. Supervised learning is labeled data that analyzes the training data and produces an inferred function (often used for predictions). However, Unsupervised learning is finding hidden structures in an unlabled data. 
 2. The claim is false because Scikit-learning does not have power to visualize data without other data libraries (such as Pandas, Graphviz, and matplotlib) are used for delveloping training models.
